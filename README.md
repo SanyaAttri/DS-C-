@@ -1,2 +1,3 @@
-# DS-C-
+# SPOJ
+
 Imp and basic data structures
